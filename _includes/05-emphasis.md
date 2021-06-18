@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## SKILLS AND EXPERTISE
+### PROGRAMMING LANGUAGES
+
+- PYTHON
+- JAVASCRIPT
+- HTML
+- CSS
+
+### COLLABORATION
+- GIT AND GITHUB
