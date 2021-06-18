@@ -1,3 +1,5 @@
+*Below are my Skills*
+
 ## SKILLS AND EXPERTISE
 ### PROGRAMMING LANGUAGES
 
@@ -7,4 +9,5 @@
 - CSS
 
 ### COLLABORATION
-- GIT AND GITHUB
+- GIT
+- GITHUB
